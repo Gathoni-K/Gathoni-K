@@ -2,7 +2,7 @@
  Math & Computer Science student | Aspiring Full-Stack Developer | Future Pilot ✈️
  
 # 💫 About Me:
-🔭 I’m currently working on building projects in React and TypeScript to strengthen my frontend skills. Also working on improving<br>👯 I’m looking to collaborate on frontend projects.<br>🤝 I’m looking for help with tips on structuring React apps, writing cleaner TypeScript, and improving problem-solving in code.<br>🌱 I’m currently learning React, TypeScript,  Data Structures & Algorithms (DSA) to improve my logic and write cleaner, more efficient code and brushing up on my core CS fundamentals through my Math & CS degree.<br>⚡ Fun fact when I’m not coding or studying, I’m probably planning flight paths in my head or dreaming of a dark-academia-style library I’ll one day own.
+🔭 I’m currently working on building projects in React and TypeScript to strengthen my frontend skills. <br>👯 I’m looking to collaborate on frontend projects.<br>🤝 I’m looking for help with tips on structuring React apps, writing cleaner TypeScript, and improving problem-solving in code.<br>🌱 I’m currently learning React, TypeScript,  Data Structures & Algorithms (DSA) to improve my logic and write cleaner, more efficient code and brushing up on my core CS fundamentals through my Math & CS degree.<br>⚡ Fun fact when I’m not coding or studying, I’m probably planning flight paths in my head or dreaming of a dark-academia-style library I’ll one day own.
 
 
 ## 🌐 Socials:
