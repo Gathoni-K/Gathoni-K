@@ -16,11 +16,11 @@
 
 ## 💫 About Me
 
-I'm a passionate developer and **Math & Computer Science student** who loves building clean, thoughtful software. I'm deeply interested in how things work under the hood — from algorithms to database internals.
+I'm a passionate developer and **Math & Computer Science student** who loves building clean, thoughtful software. I'm deeply interested in how things work under the hood;from algorithms to database internals.
 
 - 🔭 &nbsp;Currently strengthening my **backend skills** with Node.js, Express, and PostgreSQL
 - 🌱 &nbsp;Learning **DSA** and sharpening CS fundamentals through my degree
-- 🎨 &nbsp;Frontend is where I feel at home — ask me anything about **React, TypeScript & Tailwind CSS**
+- 🎨 &nbsp;Frontend is where I feel at home, ask me anything about **React, TypeScript & Tailwind CSS**
 - 👯 &nbsp;Open to collaborating on **frontend projects**
 - 🤝 &nbsp;Seeking guidance on backend project architecture and relational database design
 - ✈️ &nbsp;When not coding, I'm probably plotting flight paths or imagining a dark-academia library I'll one day own
