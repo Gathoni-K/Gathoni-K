@@ -1,94 +1,171 @@
 <div align="center">
 
-# Hi there, I'm Gathoni Karume 👋
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=38&duration=4000&pause=2000&color=8A7BA8&center=true&vCenter=true&width=700&height=90&lines=G+A+T+H+O+N+I+%C2%B7+K+A+R+U+M+E" />
 
-### 💻 Math & CS Student · Full-Stack Developer · UI Enthusiast
+<sub><i>⛧ 🕯️ haunting the intersection of logic and creativity ⛧</i></sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=React+%7C+TypeScript+%7C+TailwindCSS;Node.js+%7C+Express+%7C+PostgreSQL;Building+clean%2C+scalable+software)](https://git.io/typing-svg)
+<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gathonik-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gathoni-karume)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karumegrace.g@gmail.com)
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=500&size=20&duration=3000&pause=1200&color=8A7BA8&center=true&vCenter=true&width=600&lines=Software+Developer;Aspiring+Bitcoin+Developer" />
 
 </div>
 
----
+</div>
 
-## 💫 About Me
+<br>
 
-I'm a passionate developer and **Math & Computer Science student** who loves building clean, thoughtful software. I'm deeply interested in how things work under the hood;from algorithms to database internals.
+<br>
 
-- 🔭 &nbsp;Currently strengthening my **backend skills** with Node.js, Express, and PostgreSQL
-- 🌱 &nbsp;Learning **DSA** and sharpening CS fundamentals through my degree
-- 🎨 &nbsp;Frontend is where I feel at home, ask me anything about **React, TypeScript & Tailwind CSS**
-- 👯 &nbsp;Open to collaborating on **frontend projects**
-- 🤝 &nbsp;Seeking guidance on backend project architecture and relational database design
-- ✈️ &nbsp;When not coding, I'm probably plotting flight paths or imagining a dark-academia library I'll one day own
+## 𖤐 who wanders here
 
-> *"The best code is written at the intersection of logic and creativity."*
+I'm Gathoni, building two ventures in the dark hours between deadlines: **OctalFoundry** and **ZiwaClear**. By day I sharpen backend craft in Node.js, Express, and PostgreSQL; by candlelight I study AI/ML with **ATF AI School** and Bitcoin with **Dada Devs**.
 
----
+Frontend is my haunted ground, React, TypeScript, and Tailwind CSS are where I feel most at home. When I'm not coding, I'm plotting flight paths across borders, or sketching the dark-academia library I intend to haunt for the rest of my days.
 
-## 🛠️ Tech Stack
+**🤝 open to:** fullstack collaborations · AI mentorship, offered and received
+
+<br>
+
+<div align="center">
+
+`✥ ────────────────────── ✥`
+
+</div>
+
+<br>
+
+## 🏛️ ventures conjured
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 ZiwaClear
+**From ecological crisis to circular economy**
+
+A biomass marketplace transforming Lake Victoria's water hyacinth infestation into economic opportunity — connecting off-grid youth harvesters with commercial biogas and fertilizer buyers via SMS/USSD, no smartphone required.
+
+- NLP-parsed SMS intake (Swahili, English, Sheng)
+- Real-time biomass inventory + M-Pesa settlement
+- Yield prediction engine for biogas & fertilizer output
+- Targeting Kisumu County → Lake-wide, cross-border scale
+
+`Node.js` `Express.js` `Supabase` `Vercel AI SDK` `LangChain` `Africa's Talking API`
+
+*Private repository — currently in pilot phase*
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 OctalFoundry
+**Closing the loop from classroom to career**
+
+A B2B2C EdTech platform bridging African engineering talent and global tech employment — an AI-powered scheduler and vetting ecosystem that turns everyday coding discipline into verified, job-ready developer profiles.
+
+- Universal OCR timetable parser for chaotic campus schedules
+- Socratic AI coding assistant with a Coachability Index
+- High-fidelity developer profiles built from real GitHub activity
+- B2B recruiter dashboard + university licensing model
+
+`Express.js` `Supabase` `Node.js` `AI/NLP`
+
+**[🔗 Live site](https://octalfoundry.vercel.app/)** · *Private repository*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`✥ ────────────────────── ✥`
+
+</div>
+
+## 🦇 the tech stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Libraries & Tools**
+**Backend & Data**
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Backend & Database**
+**Tooling & DevOps**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-**Testing · Hosting · CI/CD · Design**
+**Deployment**
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
+**Design**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gathoni-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gathoni-K&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gathoni-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gathoni-K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 </div>
 
----
+<br>
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Gathoni-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
+## 📖 the archives — github stats
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Gathoni-K&icon=0&color=7)](https://visitcount.itsvg.in)
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Gathoni-K&theme=dark&hide_border=true&bg_color=0b0a13&title_color=D9A566&text_color=e8dfd0&icon_color=D9A566&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gathoni-K&theme=dark&hide_border=true&bg_color=0b0a13&title_color=D9A566&text_color=e8dfd0&layout=compact&include_all_commits=true&count_private=true"/>
 
-*Thanks for stopping by — feel free to explore my projects or reach out!* 🚀
+<img src="https://streak-stats.demolab.com/?user=Gathoni-K&theme=dark&hide_border=true&background=0b0a13&ring=D9A566&fire=D9A566&currStreakLabel=D9A566"/>
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gathoni-K&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
+<br>
+
+## 🌐 leave a letter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2e1a47?style=for-the-badge&logo=linkedin&logoColor=D9A566)](https://linkedin.com/in/gathoni-karume)
+[![Email](https://img.shields.io/badge/Email-2e1a47?style=for-the-badge&logo=gmail&logoColor=D9A566)](mailto:karumegrace.g@gmail.com)
+
+<br>
+
+`✥ ────────────────────── ✥`
+
+<sub><i>you are visitor no.</i> <img src="https://komarev.com/ghpvc/?username=Gathoni-K&icon=0&color=8A7BA8" alt="visitor badge"/> <i>to wander through</i></sub>
+
+</div>
