@@ -20,13 +20,13 @@
 
 <br>
 
-## 𖤐 who wanders here
+## 𖤐 who wanders here 𓉸𔓎 
 
 I'm Gathoni, building two ventures in the dark hours between deadlines: **OctalFoundry** and **ZiwaClear**. By day I sharpen backend craft in Node.js, Express, and PostgreSQL; by candlelight I study AI/ML with **ATF AI School** and Bitcoin with **Dada Devs**.
 
 Frontend is my haunted ground, React, TypeScript, and Tailwind CSS are where I feel most at home. When I'm not coding, I'm plotting flight paths across borders, or sketching the dark-academia library I intend to haunt for the rest of my days.
 
-**🤝 open to:** fullstack collaborations · AI mentorship, offered and received
+**🤝🏾 open to:** fullstack collaborations · AI mentorship, offered and received
 
 <br>
 
@@ -136,7 +136,7 @@ A B2B2C EdTech platform bridging African engineering talent and global tech empl
 
 <br>
 
-## 📖 the archives — github stats
+## 📜 the archives — github stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@ A B2B2C EdTech platform bridging African engineering talent and global tech empl
 
 <br>
 
-`✥ ────────────────────── ✥`
+`🃜🃚🃖🃁🂭🂺`
 
 <sub><i>you are visitor no.</i> <img src="https://komarev.com/ghpvc/?username=Gathoni-K&icon=0&color=8A7BA8" alt="visitor badge"/> <i>to wander through</i></sub>
 
