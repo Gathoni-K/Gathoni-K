@@ -56,7 +56,7 @@ A biomass marketplace transforming Lake Victoria's water hyacinth infestation in
 
 `Node.js` `Express.js` `Supabase` `Vercel AI SDK` `LangChain` `Africa's Talking API`
 
-*Private repository — currently in pilot phase*
+**[🔗 Live site](https://ziwa-clear.vercel.app/)** · *Private repository*
 
 </td>
 <td width="50%" valign="top">
